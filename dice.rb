@@ -33,10 +33,18 @@ class DiceRoller
     d20 + InitiativeModifier
   end
 
+	def main_hand_weapon_damage
+		d8 + d4 + StrengthModifier
+	end
+
+	def off_hand_weapon_damage
+		d8 + StrengthModifier
+	end
+
   def full_attack
     reset
-    NumberOfAttacks.times do
-      attack_action
+    NumberOfAttacks.times do |index|
+      attack_action(index)
     end
     puts "Total Damage Done: #{@running_total}"
   end
@@ -47,11 +55,21 @@ class DiceRoller
     @temp_roll + AttackBonus
   end
 
-  def damage
+  def damage(index)
     total = 0
-    total = d8 + StrengthModifier
+
+		if index.even? 
+    	total = main_hand_weapon_damage
+		else
+    	total = off_hand_weapon_damage
+		end
+
     if crit?(@temp_roll)
-      total += d8
+			if index.even?
+      	total += d8 + d4
+			else
+				total += d8
+			end
       puts "CRITICAL HIT!!11!!"
     end
     @running_total += total
@@ -62,10 +80,10 @@ class DiceRoller
     roll == 19 || roll == 20
   end
 
-  def attack_action
+  def attack_action(index)
     temp_attack = attack_roll
     puts "#{CharacterName} Rolled a #{temp_attack} to hit"
-    puts "if that hits it does #{damage} points of damage"
+    puts "if that hits it does #{damage(index)} points of damage"
     puts ""
     temp_attack
   end
