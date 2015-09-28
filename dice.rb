@@ -58,7 +58,7 @@ class DiceRoller
   def damage(index)
     total = 0
 
-		if index.even? 
+		if index.even?
     	total = main_hand_weapon_damage
 		else
     	total = off_hand_weapon_damage
@@ -66,9 +66,9 @@ class DiceRoller
 
     if crit?(@temp_roll)
 			if index.even?
-      	total += d8 + d4
+      	total += d8 + d4 + d8
 			else
-				total += d8
+				total += d8 + d8
 			end
       puts "CRITICAL HIT!!11!!"
     end
