@@ -5,14 +5,6 @@
 | Julia  | Merida  | 13  |  11 |
 | Steve  | Rolan  | 15  | 12  |
 
-
-| Real Name  | Character Name  | AC  | Passive Perception  |   |
-|---|---|---|---|---|
-| Hoot   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
-
 WatchOrder
  * Drew
  * Steve
@@ -23,6 +15,3 @@ Marching Order
  * Julia
  * Steve
  * Hoot
-
-# Things to get from the child
-Big dice, Lava dude, Strahd, Tree dude, 
