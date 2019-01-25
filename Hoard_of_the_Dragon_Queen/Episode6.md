@@ -8,4 +8,4 @@
   - Arrive at Castle Naertyar
 - Rezmir and Azbara Jos don't want to fight they will flee throught the portal when battle starts. 
 - The Players can choose to rally the lizardfolk against the bullywogs if so an all out battle can begin in the castle. 
-- OVERALL GOAL: Get the command word from Rezmire's desk 3L (Draezir) and us it to go through the portal. 
+- OVERALL GOAL: Get the command word from Rezmir's desk 3L (Draezir) and us it to go through the portal. 
