@@ -1,2 +1,2 @@
-A budding Cult headed by [[Zane Delacroix]]
+A budding Cult headed by [[Zenith - Zane Delacroix]]
 

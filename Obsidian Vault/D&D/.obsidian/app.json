@@ -2,5 +2,5 @@
   "showLineNumber": true,
   "tabSize": 2,
   "vimMode": false,
-  "alwaysUpdateLinks": false
+  "alwaysUpdateLinks": true
 }

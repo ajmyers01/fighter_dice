@@ -10,4 +10,10 @@ The cult worshiped Shar, god of darkness and loss. The cult's leader when you we
 
 ![[Pasted image 20221117145544.png]]
 
+Core tenents of Shar faith:
+In darkness, act. Never wait for the darkness to pass before making your move.
+Quench the light of the moon when you can. Hide from it when you can't. (edited) 
+Keep secrets from all except Shar's faithful.
+Only a fool believes in hope
 
+https://forgottenrealms.fandom.com/wiki/Church_of_Shar

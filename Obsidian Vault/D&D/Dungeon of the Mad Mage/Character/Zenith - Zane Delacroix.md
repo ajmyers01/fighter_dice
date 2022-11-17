@@ -1,3 +1,5 @@
+Primary Name: Zenith 
+Hidden Name: Zane Delacroix
 Character: [[Zane - Bard.pdf |Character Sheet]]
 Race: [[Custom Lineage - Astral Elf Descendant|Custom Lineage]]
 Feats: [[Fey-Touched]], [[Inspiring Leader]]
