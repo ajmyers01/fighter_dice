@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "e4e8cb9abb364825",
+    "type": "split",
+    "children": [
+      {
+        "id": "115074ad9de068bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63373eb99997bb5c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Dungeon of the Mad Mage/Files/Images/Pasted image 20221117152355.jpg"
+              }
+            }
+          },
+          {
+            "id": "9d6c6aca46a8e9c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeon of the Mad Mage/Character/The Timeless Ascension/Members/Female 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09e4d292a253fa49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeon of the Mad Mage/Character/The Timeless Ascension/Members/Female 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "434a81066050f0bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeon of the Mad Mage/Character/The Timeless Ascension/Members/Female 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13a634607b3cff4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeon of the Mad Mage/Character/The Timeless Ascension/Members/Male 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff08a73910bddb34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeon of the Mad Mage/Character/The Timeless Ascension/Members/Male 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4b495ad803c750f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeon of the Mad Mage/Character/Zane Delacroix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ddc16021e6e9aec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeon of the Mad Mage/Character/Zane Delacroix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01da863f3e50b7d7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Dungeon of the Mad Mage/Files/Zane - Bard.pdf"
+              }
+            }
+          },
+          {
+            "id": "19af8fb4ba367c5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeon of the Mad Mage/Character/Foundational/Background - Charlatan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6c21ff2e2bb4527",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9054181370244a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bb2a8f7c2098853",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b5220f7d90c25cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfe6c230a699d9fe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d431569c800e9cbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b04032615d1ac4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "031cb3b93b2f4379",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dungeon of the Mad Mage/Character/Zane Delacroix.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5d99e0ef15282fc1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dungeon of the Mad Mage/Character/Zane Delacroix.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5b39b9458166c4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a0e08d8763809e32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dungeon of the Mad Mage/Character/Zane Delacroix.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "1ddc16021e6e9aec",
+  "lastOpenFiles": [
+    "Dungeon of the Mad Mage/Character/Foundational/Inspiring Leader.md",
+    "Dungeon of the Mad Mage/Character/Zane Delacroix.md",
+    "Dungeon of the Mad Mage/Character/Foundational/Guide.md",
+    "Dungeon of the Mad Mage/Character/Foundational/Fey-Touched.md",
+    "Dungeon of the Mad Mage/Files/Zane - Bard.pdf",
+    "Dungeon of the Mad Mage/Character/Spells.md",
+    "Dungeon of the Mad Mage/Notes/Session 0 November 17, 2022.md",
+    "Dungeon of the Mad Mage/Character/The Timeless Ascension/Members/Male 2.md",
+    "Dungeon of the Mad Mage/Character/The Timeless Ascension/Members/Male 1.md",
+    "Dungeon of the Mad Mage/Character/The Timeless Ascension/Members/Female 3.md"
+  ]
+}
