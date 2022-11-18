@@ -93,11 +93,9 @@
             "id": "1ddc16021e6e9aec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Dungeon of the Mad Mage/Character/The Timeless Ascension/The Timeless Ascension.md",
-                "mode": "source",
-                "source": false
+                "file": "Dungeon of the Mad Mage/Files/Zane - Bard.pdf"
               }
             }
           },
@@ -190,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeon of the Mad Mage/Character/The Timeless Ascension/The Timeless Ascension.md",
+                "file": "Dungeon of the Mad Mage/Files/Zane - Bard.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeon of the Mad Mage/Character/The Timeless Ascension/The Timeless Ascension.md",
+                "file": "Dungeon of the Mad Mage/Files/Zane - Bard.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeon of the Mad Mage/Character/The Timeless Ascension/The Timeless Ascension.md"
+                "file": "Dungeon of the Mad Mage/Files/Zane - Bard.pdf"
               }
             }
           }
@@ -242,15 +240,15 @@
   },
   "active": "1ddc16021e6e9aec",
   "lastOpenFiles": [
-    "Dungeon of the Mad Mage/Character/The Timeless Ascension/Members/Astra.md",
-    "Dungeon of the Mad Mage/Character/The Timeless Ascension/Members/Pyxis.md",
-    "Dungeon of the Mad Mage/Character/The Timeless Ascension/Members/Pavo.md",
+    "Dungeon of the Mad Mage/Character/The Timeless Ascension/The Timeless Ascension.md",
     "Dungeon of the Mad Mage/Character/The Timeless Ascension/Members/Lyra.md",
     "Dungeon of the Mad Mage/Character/The Timeless Ascension/Members/Aurora.md",
-    "Dungeon of the Mad Mage/Character/Zenith - Zane Delacroix.md",
-    "Dungeon of the Mad Mage/Files/Zane - Bard.pdf",
-    "Dungeon of the Mad Mage/Character/Foundational/Secrets.md",
+    "Dungeon of the Mad Mage/Character/The Timeless Ascension/Members/Astra.md",
+    "Dungeon of the Mad Mage/Character/Foundational/Custom Lineage - Astral Elf Descendant.md",
+    "Dungeon of the Mad Mage/Character/Foundational/Fey-Touched.md",
     "Dungeon of the Mad Mage/Character/Foundational/Inspiring Leader.md",
-    "Dungeon of the Mad Mage/Character/Foundational/Guide.md"
+    "Dungeon of the Mad Mage/Character/Foundational/Secrets.md",
+    "Dungeon of the Mad Mage/Character/The Timeless Ascension/Members/Pyxis.md",
+    "Dungeon of the Mad Mage/Character/The Timeless Ascension/Members/Pavo.md"
   ]
 }
